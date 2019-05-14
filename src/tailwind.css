@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+.example {
+  font-size: 50px;
+}

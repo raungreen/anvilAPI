@@ -108,7 +108,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_2__);
-var _jsxFileName = "/Users/raungreen/DevProjects/anvil_api/components/Layout.tsx";
+var _jsxFileName = "/Users/raungreen/dev/projects/anvilAPI/components/Layout.tsx";
 
 
 
@@ -806,7 +806,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.tsx");
-var _jsxFileName = "/Users/raungreen/DevProjects/anvil_api/pages/about.tsx";
+var _jsxFileName = "/Users/raungreen/dev/projects/anvilAPI/pages/about.tsx";
 
 
 
@@ -864,7 +864,7 @@ var AboutPage = function AboutPage() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/raungreen/DevProjects/anvil_api/pages/about.tsx */"./pages/about.tsx");
+module.exports = __webpack_require__(/*! /Users/raungreen/dev/projects/anvilAPI/pages/about.tsx */"./pages/about.tsx");
 
 
 /***/ }),

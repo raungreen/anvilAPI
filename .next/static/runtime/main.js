@@ -6655,7 +6655,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "/Users/raungreen/DevProjects/anvil_api/.next");
+      source_map_support_1.rewriteStacktrace(error, "/Users/raungreen/dev/projects/anvilAPI/.next");
       return error;
     }
   };
