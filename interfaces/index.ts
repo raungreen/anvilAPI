@@ -5,11 +5,17 @@
 // import IDataObject from 'path/to/interfaces';
 
 export default interface People {
-  id: number;
+  id: number | string;
   projectName: string;
-  date: string;
+  date: string | number;
   task: string;
   time: number;
   billable: boolean;
   fullname: string;
+  name: string;
 }
+
+// export default interface peopleData {
+//   acc: number;
+//   curr: string;
+// }
