@@ -1,0 +1,19 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next/dist/pages/_app": 0,
+      "multi next/dist/pages/_error": 1,
+      "multi next/dist/pages/_document": 2
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}

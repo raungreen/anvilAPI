@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
 
 import moment from 'moment';
-import { CSVLink } from 'react-csv';
+// import { CSVLink } from 'react-csv';
 
 const REACT_APP_API_KEY = process.env.REACT_APP_API_KEY;
 var base64 = new Buffer(REACT_APP_API_KEY + ':xxx').toString('base64');

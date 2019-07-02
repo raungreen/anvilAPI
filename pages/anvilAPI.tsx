@@ -3,20 +3,22 @@ import Link from 'next/link';
 import axios from 'axios';
 // import { dataArray } from '../utils/sample-api';
 
-const Index = props => (
-  <Layout>
-    <h1>Member {data.name}</h1>
-    <div>
-      {props.data.map(({ data }) => (
-        <ul key={data.id}>
-          <Link as={`/p/${data.id}`} href={`/post`}>
-            <a>{data.name}</a>
-          </Link>
-        </ul>
-      ))}
-    </div>
-  </Layout>
-);
+const Index = ({ data }: any) => {
+  return (
+    <Layout>
+      <h1>Member {data.name}</h1>
+      <div>
+        {data.map((data: any) => (
+          <ul key={data.id}>
+            <Link as={`/p/${data.id}`} href={`/post`}>
+              <a>{data.name}</a>
+            </Link>
+          </ul>
+        ))}
+      </div>
+    </Layout>
+  );
+};
 
 Index.getInitialProps = async function() {
   const res = await axios.get(

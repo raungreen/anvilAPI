@@ -16,9 +16,11 @@
     "axios": "^0.18.0",
     "create-next-app": "^0.5.9",
     "cssnano": "^4.1.10",
+    "moment": "^2.24.0",
     "next": "^8.1.0",
     "npm-gui": "^2.0.3",
     "react": "^16.8.6",
+    "react-csv": "^1.1.1",
     "react-dom": "^16.8.6",
     "watch": "^1.0.2"
   },
