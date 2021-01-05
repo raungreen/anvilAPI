@@ -13,7 +13,7 @@
     "@fullhuman/postcss-purgecss": "^1.2.0",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "create-next-app": "^0.5.9",
     "cssnano": "^4.1.10",
     "moment": "^2.24.0",
